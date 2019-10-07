@@ -1,2 +1,2 @@
-This is lab 05
+This is Lab 05
 It's about JavaScript
